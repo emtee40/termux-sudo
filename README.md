@@ -49,8 +49,3 @@ sudo su [-]
 sudo <command> [<args>]  
   Run command as root with optional arguments
 ```
-
-**This was inspired by the following:**
-
-https://github.com/cswl/tsu  
-https://gist.github.com/cswl/cd13971e644dc5ced7b2  
